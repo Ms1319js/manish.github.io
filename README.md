@@ -1,4 +1,4 @@
-# Arjun's Minimalist Webpage
+#Manish's Minimalist Webpage
 
 Minimilast webpage, made completley in HTML and CSS.
 
